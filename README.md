@@ -9,6 +9,6 @@ And tried to connect nosql database (mongodb) to save readings there.
 
 
 and here is youtube video that demonstrates different scenarion such as: 
-  # Fire 
-  # Carbon dioxide from baloon
-  # water drops
+  - Fire 
+  - Carbon dioxide from baloon
+  - Water drops
